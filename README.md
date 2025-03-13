@@ -1,85 +1,79 @@
-# 👋 Hello, I'm [Your Name]!
+<h1 align="center">Xin chào! Tôi là [Tên của bạn] 👋</h1>
 
-🚀 **Front-End Developer** | 💻 **UI/UX Enthusiast** | 🎨 **Creative Coder**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;UI/UX+Lover" alt="Typing SVG" />
+</p>
 
-![Your Avatar](https://avatars.githubusercontent.com/u/youruserid?v=4)
-
-Welcome to my GitHub profile! I'm passionate about building beautiful, interactive, and user-friendly web interfaces. I love working with animations, icons, and visuals to create engaging user experiences.
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[username-của-bạn]&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <a href="https://github.com/[username-của-bạn]?tab=followers"><img src="https://img.shields.io/github/followers/[username-của-bạn]?style=social" alt="Followers" /></a>
+  <a href="https://github.com/[username-của-bạn]?tab=stars"><img src="https://img.shields.io/github/stars/[username-của-bạn]?style=social" alt="Stars" /></a>
+</p>
 
 ---
 
-## 🎨 My Design Philosophy
-
-I believe that a great user interface is not just about how it looks, but also about how it feels. I strive to create designs that are:
-
-- **Visually appealing**: Clean, modern, and aesthetically pleasing.
-- **Interactive**: Engaging animations and transitions that enhance user experience.
-- **User-centric**: Intuitive and easy to navigate.
-
----
-
-## 🌟 Featured Projects
-
-### 1. [Project Name 1](https://github.com/yourusername/project1)
-📝 **Description**: A brief description of the project.
-✨ **Features**: 
-- Beautiful animations using GSAP.
-- Responsive design with Tailwind CSS.
-- Interactive UI elements.
-
-### 2. [Project Name 2](https://github.com/yourusername/project2)
-📝 **Description**: A brief description of the project.
-✨ **Features**: 
-- 3D visuals with Three.js.
-- Custom icons and illustrations.
-- Smooth transitions and micro-interactions.
+### 🚀 Về tôi
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VOSqNr5n6cxN/giphy.gif" width="150" alt="Coding GIF" />
+</p>
+- 🌟 **Frontend Developer** chuyên về xây dựng giao diện đẹp mắt và mượt mà.  
+- 💻 Yêu thích **React**, **TypeScript**, và **CSS Animation**.  
+- 🎨 Đam mê thiết kế **UI/UX** để tạo trải nghiệm người dùng tuyệt vời.  
+- 🌱 Hiện đang học hỏi thêm về **WebGL** và **Three.js**.  
+- 📫 Liên hệ tôi qua: [email@example.com](mailto:email@example.com)  
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
-</div>
+### 🛠 Công cụ & Công nghệ
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,redux,webpack,vite,git,github,figma,vscode" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to collaborating on exciting projects. Feel free to reach out to me:
-
-- [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
-
----
-
-## 💖 Support Me
-
-If you like what I do, consider supporting me by buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourhandle)
+### 📊 Thống kê GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[username-của-bạn]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-của-bạn]&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-của-bạn]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+### 🌟 Dự án nổi bật
+<p align="center">
+  <a href="https://github.com/[username-của-bạn]/[tên-dự-án-1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username-của-bạn]&repo=[tên-dự-án-1]&theme=radical&show_owner=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/[username-của-bạn]/[tên-dự-án-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[username-của-bạn]&repo=[tên-dự-án-2]&theme=radical&show_owner=true" alt="Project 2" />
+  </a>
+</p>
+
+---
+
+### 🎉 Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HU20V77Gdwj0i6Q/giphy.gif" width="200" alt="Fun GIF" />
+</p>
+- Tôi có thể viết CSS mà không cần nhìn màn hình (đùa thôi, nhưng tôi rất thích CSS)!  
+- Yêu thích cafe ☕ và nhạc lo-fi khi code.
+
+---
+
+### 🌐 Kết nối với tôi
+<p align="center">
+  <a href="https://linkedin.com/in/[linkedin-của-bạn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/[twitter-của-bạn]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://[portfolio-của-bạn].com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Wave GIF" />
+</p>
+
+---
+
+*README này được tạo với 💖 bởi [Tên của bạn] vào ngày 13/03/2025*

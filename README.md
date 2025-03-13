@@ -1,19 +1,12 @@
-
 # Hi there, I'm **Huỳnh Phan Đỗ Khải** 👋
 
-```html
-<span class="wave">👋</span> <span class="fade-in">Welcome to my GitHub profile!</span>
-```
+👋 **Welcome to my GitHub profile!**
 
 ---
 
 ## 🚀 About Me
 
-```html
-<p class="fade-in">
-  I'm a passionate <b>Frontend Developer</b> who loves building beautiful and interactive web experiences.
-</p>
-```
+💡 I'm a passionate **Frontend Developer** who loves building beautiful and interactive web experiences.
 
 - 💻 I specialize in **HTML, CSS, JavaScript, React, Tailwind CSS**
 - 🎨 I have a keen eye for **UI/UX design**

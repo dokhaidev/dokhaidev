@@ -1,6 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="[banner_github.png](https://files.oaiusercontent.com/file-7a599M18F1FDgUsR9GDgGp?se=2025-03-13T19%3A46%3A27Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0e875a91-90b2-4bb1-a54c-2ec187556d0a.webp&sig=9kd6Sw2wthWXhcV2c03fFVvyh7hYQwW8mmQqP3uD9TE%3D)" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Đỗ Khải 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 

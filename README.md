@@ -2,23 +2,27 @@
 
 🚀 **Front-End Developer** | 💻 **UI/UX Enthusiast** | 🎨 **Creative Coder**
 
+![Your Avatar](https://avatars.githubusercontent.com/u/youruserid?v=4)
+
 Welcome to my GitHub profile! I'm passionate about building beautiful, interactive, and user-friendly web interfaces. I love working with animations, icons, and visuals to create engaging user experiences.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="Adobe XD">
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP">
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+</div>
 
 ---
 
@@ -52,9 +56,10 @@ I believe that a great user interface is not just about how it looks, but also a
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs">
+</div>
 
 ---
 

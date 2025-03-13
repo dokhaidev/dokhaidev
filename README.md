@@ -1,4 +1,4 @@
-
+![Banner](https://your-banner-url.com/banner.png)
 
 # <p align="center"><b><span style="animation: fadeIn 2s ease-in-out; display: block;">Hi there, I'm Huỳnh Phan Đỗ Khải 👋</span></b></p>
 
@@ -41,16 +41,16 @@
 
 <p align="center">
   <a href="https://www.facebook.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="120" />
   </a>
   <a href="https://zalo.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-%230073E6.svg?&style=for-the-badge&logo=zalo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zalo-0073E6?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" width="120" />
   </a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120" />
   </a>
   <a href="mailto:yourname@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="120" />
   </a>
 </p>
 

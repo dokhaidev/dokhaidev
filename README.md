@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Huynh Phan Do Khai!
 
 🚀 **Front-End Developer** | 💻 **UI/UX Enthusiast** | 🎨 **Creative Coder**
 

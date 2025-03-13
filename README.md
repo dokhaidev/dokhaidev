@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave Hand" />
-  Xin chào! Tôi là [Tên của bạn]
+  Xin chào! Tôi là Huỳnh Phan Đỗ Khải
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="[URL-avatar-của-bạn]" width="200" style="border-radius:50%; border: 5px solid #00FFFF;" alt="Avatar" />
+  <img src="https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/480850184_1693341558205720_1586463004120045011_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=quyzAysrskUQ7kNvgEuC9xI&_nc_oc=Adgv5devDOCFN1fwUvmOEigtC7Q-F0FCjUWeiSzXTj_vEK5ZNhY-cI0xbRg70ZOAomM&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=AYdhFatfXMMv8uUjc7no_Oi&oh=00_AYGenpMA9iZP-58cNA3ccggnw5FBRsN9XrFDe_rH-N30Kw&oe=67D906C0" width="200" style="border-radius:50%; border: 5px solid #00FFFF;" alt="Avatar" />
 </p>
 
 <p align="center">

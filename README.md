@@ -1,7 +1,7 @@
-# <p align="center"><b><span style="animation: fadeIn 2s ease-in-out;">Hi there, I'm Huỳnh Phan Đỗ Khải 👋</span></b></p>
+# <p align="center"><b><span align="center" style="animation: fadeIn 2s ease-in-out; display: block;">Hi there, I'm Huỳnh Phan Đỗ Khải 👋</span></b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&center=true&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,sass,figma,git,github,vscode" alt="Tech Stack" width="600" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,sass,figma,git,github,vscode" alt="Tech Stack" width="700" />
 </p>
 
 ---
@@ -39,16 +39,16 @@
 
 <p align="center">
   <a href="https://www.facebook.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="transform: scale(1.2); transition: transform 0.3s ease-in-out;" />
   </a>
   <a href="https://zalo.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-%230073E6.svg?&style=for-the-badge&logo=zalo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zalo-%230073E6.svg?&style=for-the-badge&logo=zalo&logoColor=white" style="transform: scale(1.2); transition: transform 0.3s ease-in-out;" />
   </a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" style="transform: scale(1.2); transition: transform 0.3s ease-in-out;" />
   </a>
   <a href="mailto:yourname@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transform: scale(1.2); transition: transform 0.3s ease-in-out;" />
   </a>
 </p>
 

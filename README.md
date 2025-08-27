@@ -28,7 +28,7 @@
 ## 📂 My Projects
 
 ### 🔥 Featured Projects
-- 🌐 **[Project 1](https://github.com/yourusername/project1)** - Description of project 1
+- 🌐 **[Booking Sushi Takumi](https://github.com/yourusername/project1)** - Description of project 1
 - 🚀 **[Project 2](https://github.com/yourusername/project2)** - Description of project 2
 - 🎨 **[Project 3](https://github.com/yourusername/project3)** - Description of project 3
 

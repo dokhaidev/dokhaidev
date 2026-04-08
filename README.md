@@ -6,14 +6,6 @@
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;React+%2B+Next.js+Craftsman+%E2%9A%A1;Always+shipping+something+new+%F0%9F%94%A5" alt="Typing SVG" />
 
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=FOLLOWERS" />
-</p>
-
 </div>
 
 ---
@@ -37,17 +29,86 @@ const khai = {
 
 <div align="center">
 
-**Languages & Markup**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,nodejs,express,mongodb&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" /><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" /><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=sass&theme=dark" width="48" /><br/>
+      <sub><b>Sass</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" /><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 

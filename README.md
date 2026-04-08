@@ -1,79 +1,67 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Khải+👋;Frontend+Developer;I+build+things+for+the+web." alt="Typing SVG" />
-</div>
 
-<br/>
+# <p align="center"><b><span style="animation: fadeIn 2s ease-in-out; display: block;">Hi there, I'm Huỳnh Phan Đỗ Khải 👋</span></b></p>
 
-```
-A frontend dev who cares about clean UI, smooth UX, and writing code that doesn't
-make future-me cry. Currently based in Việt Nam 🇻🇳, shipping things daily.
-```
-
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&center=true&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠 Tech I reach for
+## 🚀 About Me
 
-```yaml
-Languages:    HTML · CSS · JavaScript · TypeScript
-Frameworks:   React · Next.js · Tailwind CSS · Bootstrap · Redux · Sass
-Tooling:      Git · GitHub · VSCode · Figma
-Backend:      Node.js · Express · MongoDB  (enough to be dangerous)
-```
+💡 I'm a passionate **Frontend Developer** who loves building beautiful and interactive web experiences.
 
----
-
-### 📌 Things I've built
-
-| Project | Stack | Status |
-|---|---|---|
-| 🍣 [Booking Sushi Takumi](https://github.com/yourusername/booking-sushi-takumi) | React · Node.js · MongoDB | ✅ Shipped |
-| 🚀 [Project 2](https://github.com/yourusername/project2) | Next.js · TypeScript · Tailwind | ✅ Shipped |
-| 🔮 Something new... | — | 🔨 Building |
-
-> Browse everything → **[github.com/yourusername?tab=repositories](https://github.com/yourusername?tab=repositories)**
+- 💻 I specialize in **HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap**
+- 🎨 I have a keen eye for **UI/UX design**
+- 📚 I'm always learning new technologies to stay up to date
 
 ---
 
-### 📊 By the numbers
+## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&hide_title=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,sass,figma,git,github,vscode,nodejs,express,mongodb" alt="Tech Stack" width="800" />
+</p>
 
 ---
 
-### 🐍 Contributions
+## 📂 My Projects
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  </picture>
-</div>
+### 🔥 Featured Projects
+- 🌐 **[Project 1](https://github.com/yourusername/project1)** - Description of project 1
+- 🌐 **[Booking Sushi Takumi](https://github.com/yourusername/project1)** - Description of project 1
+- 🚀 **[Project 2](https://github.com/yourusername/project2)** - Description of project 2
+- 🎨 **[Project 3](https://github.com/yourusername/project3)** - Description of project 3
+
+📌 *Check out more projects on my [GitHub](https://github.com/yourusername?tab=repositories)!*
 
 ---
 
-### ✉️ Reach me on
+## 📬 Contact Me
 
-<div align="center">
+<p align="center">
+<a href="https://www.facebook.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+<a href="https://zalo.me/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/Zalo-0073E6?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+<a href="https://www.instagram.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+<a href="mailto:yourname@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+</a>
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://facebook.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/yourusername)
-[![Zalo](https://img.shields.io/badge/Zalo-0d1117?style=flat-square&logo=zalo&logoColor=0073E6)](https://zalo.me/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=D14836)](mailto:yourname@gmail.com)
+---
 
-</div>
+## 🏆 GitHub Contribution Snake 🐍
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=58a6ff&label=profile+views" />
-</div>
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>

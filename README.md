@@ -1,67 +1,94 @@
-
-# <p align="center"><b><span style="animation: fadeIn 2s ease-in-out; display: block;">Hi there, I'm Huỳnh Phan Đỗ Khải 👋</span></b></p>
+# <p align="center"><b><span style="font-family: 'Fira Code', monospace; color: #F7B93E;">Huỳnh Phan Đỗ Khải</span></b></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&center=true&lines=Frontend+Developer;Passionate+about+UI%2FUX+Design;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Design+Enthusiast;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/KhaiHuynh-Dev">
+    <img src="https://img.shields.io/github/followers/KhaiHuynh-Dev?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Về Tôi
 
-💡 I'm a passionate **Frontend Developer** who loves building beautiful and interactive web experiences.
-
-- 💻 I specialize in **HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap**
-- 🎨 I have a keen eye for **UI/UX design**
-- 📚 I'm always learning new technologies to stay up to date
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>💡 Tôi là một <b>Frontend Developer</b> với niềm đam mê kiến tạo nên các trải nghiệm giao diện mượt mà, trực quan và tối ưu hiệu suất người dùng.</p>
+      <ul>
+        <li>💻 Chuyên sâu phát triển ứng dụng Web bằng hệ sinh thái <b>React / Next.js</b> & <b>TypeScript</b>.</li>
+        <li>🎨 Đặt trải nghiệm <b>UI/UX</b> làm trọng tâm trong mọi sản phẩm.</li>
+        <li>🚀 Luôn cập nhật và làm chủ các công nghệ mới để tìm ra giải pháp tối ưu nhất.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiHuynh-Dev&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Công Nghệ & Công Cụ
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,sass,figma,git,github,vscode,nodejs,express,mongodb" alt="Tech Stack" width="800" />
+### 🚀 Core Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,sass" alt="Core Tech Stack" />
+</p>
+
+### ⚙️ Backend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,figma,git,github,vscode" alt="Tools" />
 </p>
 
 ---
 
-## 📂 My Projects
+## 📂 Dự Án Nổi Bật
 
-### 🔥 Featured Projects
-- 🌐 **[Project 1](https://github.com/yourusername/project1)** - Description of project 1
-- 🌐 **[Booking Sushi Takumi](https://github.com/yourusername/project1)** - Description of project 1
-- 🚀 **[Project 2](https://github.com/yourusername/project2)** - Description of project 2
-- 🎨 **[Project 3](https://github.com/yourusername/project3)** - Description of project 3
-
-📌 *Check out more projects on my [GitHub](https://github.com/yourusername?tab=repositories)!*
+| Tên Dự Án | Mô Tả | Công Nghệ | Liên Kết |
+| :--- | :--- | :--- | :--- |
+| 🌐 **Sushi Takumi Booking** | Hệ thống đặt bàn trực tuyến tối ưu cho nhà hàng Nhật Bản. | `Next.js`, `TailwindCSS`, `Redux` | [GitHub](https://github.com/KhaiHuynh-Dev/sushi-takumi) \| [Demo](#) |
+| 🚀 **Smart Warehouse System** | Giao diện quản lý kho thông minh, theo dõi realtime. | `React`, `TypeScript`, `Node.js` | [GitHub](https://github.com/KhaiHuynh-Dev/warehouse) \| [Demo](#) |
+| 🎨 **Culinary Blog Project** | Blog chia sẻ công thức và trải nghiệm ẩm thực cao cấp. | `Next.js`, `Sass`, `Markdown` | [GitHub](https://github.com/KhaiHuynh-Dev/culinary-blog) \| [Demo](#) |
 
 ---
 
-## 📬 Contact Me
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://www.facebook.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-</a>
-<a href="https://zalo.me/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/Zalo-0073E6?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-</a>
-<a href="https://www.instagram.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-</a>
-<a href="mailto:yourname@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="140" height="50" style="margin: 5px; border-radius: 8px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaiHuynh-Dev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Khải's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaiHuynh-Dev&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 
-## 🏆 GitHub Contribution Snake 🐍
+## 🏆 Hoạt Động Bản Đồ Đóng Góp 🐍
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhaiHuynh-Dev/KhaiHuynh-Dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhaiHuynh-Dev/KhaiHuynh-Dev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/KhaiHuynh-Dev/KhaiHuynh-Dev/output/github-snake.svg" />
+  </picture>
 </p>
+
+---
+
+## 📬 Kết Nối Với Tôi
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="margin: 0 5px;" />
+  </a>
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="35" style="margin: 0 5px;" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="35" style="margin: 0 5px;" />
+  </a>
+</p>
+
+<p align="center">⭐️ From Khải with 💻 </p>

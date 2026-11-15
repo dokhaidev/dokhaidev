@@ -18,8 +18,8 @@
 <rect x="0" y="0" width="5" height="92" fill="url(#hg)"/>
 <g class="up"><rect x="30" y="24" width="46" height="30" rx="8" fill="#0B1226" stroke="#25324A"/>
 <text x="53" y="44" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="url(#hg)" text-anchor="middle">04</text>
-<text x="96" y="47" font-size="26" font-weight="800" fill="#E2E8F0" letter-spacing="-.4">Cách mình làm sản phẩm</text>
-<text x="96" y="72" font-size="14" fill="#94A3B8">Quy trình từ ý tưởng đến bản chạy thật</text></g>
+<text x="96" y="47" font-size="26" font-weight="800" fill="#E2E8F0" letter-spacing="-.4">How I Build Products</text>
+<text x="96" y="72" font-size="14" fill="#94A3B8">My process from idea to a live release</text></g>
 <g font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" text-anchor="end">
   <text x="1166" y="42" font-size="11" letter-spacing="2" fill="#64748B">SECTION <tspan fill="#22D3EE">04</tspan> / 05</text>
   <text x="1166" y="64" font-size="11" letter-spacing="1.5" fill="#475569">// workflow.yml</text>

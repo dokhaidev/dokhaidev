@@ -57,7 +57,7 @@
     <animate attributeName="r" values="5;12" dur="1.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-    <text x="108" y="87" font-size="13" font-weight="600" letter-spacing="1.6" fill="#94A3B8">SOFTWARE ENGINEER · VIỆT NAM</text>
+    <text x="108" y="87" font-size="13" font-weight="600" letter-spacing="1.6" fill="#94A3B8">SOFTWARE ENGINEER · VIETNAM</text>
   </g>
 
   <text class="up" style="animation-delay:.3s" x="66" y="176" font-size="72" font-weight="800" letter-spacing="-2" fill="url(#tg)">Richard Huynh</text>
@@ -165,9 +165,9 @@
     <animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/>
   </circle>
       <text x="114" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">Open to collaboration</text><circle cx="336.2" cy="437" r="4" fill="#22D3EE"/>
-      <text x="350.2" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">Việt Nam · UTC+7</text><circle cx="531.4" cy="437" r="4" fill="#3B82F6"/>
-      <text x="545.4" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">SMAC Technology</text><circle cx="718.4" cy="437" r="4" fill="#A78BFA"/>
-      <text x="732.4" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">dookei.dev</text>
+      <text x="350.2" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">Vietnam · UTC+7</text><circle cx="523.2" cy="437" r="4" fill="#3B82F6"/>
+      <text x="537.2" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">SMAC Technology</text><circle cx="710.2" cy="437" r="4" fill="#A78BFA"/>
+      <text x="724.2" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">dookei.dev</text>
     <text x="1130" y="442" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#64748B" text-anchor="end">stack: next.js · typescript</text>
   </g>
   <rect x="180" y="0" width="840" height="1.5" fill="url(#topline)" opacity=".8"/>

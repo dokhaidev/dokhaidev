@@ -35,7 +35,7 @@
       <text x="383" y="64" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">01</text>
       <line x1="73" y1="112" x2="377" y2="112" stroke="#1E293B"/>
       <line x1="73" y1="112" x2="113" y2="112" stroke="#22D3EE" stroke-width="2"/>
-      <text x="73" y="142" font-size="15" fill="#94A3B8"><tspan x="73" dy="0">React, Next.js, TypeScript — kiến trúc</tspan><tspan x="73" dy="22">component rõ ràng, dễ mở rộng và</tspan><tspan x="73" dy="22">dễ bảo trì.</tspan></text>
+      <text x="73" y="142" font-size="15" fill="#94A3B8"><tspan x="73" dy="0">React, Next.js and TypeScript with a</tspan><tspan x="73" dy="22">clean component architecture that</tspan><tspan x="73" dy="22">scales and stays maintainable.</tspan></text>
     </g><g class="up" style="animation-delay:0.27s">
       <rect x="435" y="30" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
       <rect x="435" y="30" width="360" height="190" rx="16" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
@@ -47,7 +47,7 @@
       <text x="773" y="64" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">02</text>
       <line x1="463" y1="112" x2="767" y2="112" stroke="#1E293B"/>
       <line x1="463" y1="112" x2="503" y2="112" stroke="#A78BFA" stroke-width="2"/>
-      <text x="463" y="142" font-size="15" fill="#94A3B8"><tspan x="463" dy="0">Ưu tiên giao diện rõ ràng, nhất quán,</tspan><tspan x="463" dy="22">responsive và trải nghiệm mượt mà</tspan><tspan x="463" dy="22">trên mọi thiết bị.</tspan></text>
+      <text x="463" y="142" font-size="15" fill="#94A3B8"><tspan x="463" dy="0">Clear, consistent and responsive</tspan><tspan x="463" dy="22">interfaces with a smooth experience</tspan><tspan x="463" dy="22">on every device.</tspan></text>
     </g><g class="up" style="animation-delay:0.39s">
       <rect x="825" y="30" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
       <rect x="825" y="30" width="360" height="190" rx="16" fill="none" stroke="#34D399" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
@@ -59,7 +59,7 @@
       <text x="1163" y="64" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">03</text>
       <line x1="853" y1="112" x2="1157" y2="112" stroke="#1E293B"/>
       <line x1="853" y1="112" x2="893" y2="112" stroke="#34D399" stroke-width="2"/>
-      <text x="853" y="142" font-size="15" fill="#94A3B8"><tspan x="853" dy="0">Kết nối REST API, quản lý state với</tspan><tspan x="853" dy="22">Redux, xử lý dữ liệu và lỗi một</tspan><tspan x="853" dy="22">cách chặt chẽ.</tspan></text>
+      <text x="853" y="142" font-size="15" fill="#94A3B8"><tspan x="853" dy="0">REST API integration, state managed</tspan><tspan x="853" dy="22">with Redux, and careful handling of</tspan><tspan x="853" dy="22">data and errors.</tspan></text>
     </g><g class="up" style="animation-delay:0.51s">
       <rect x="45" y="250" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
       <rect x="45" y="250" width="360" height="190" rx="16" fill="none" stroke="#3B82F6" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
@@ -71,7 +71,7 @@
       <text x="383" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">04</text>
       <line x1="73" y1="332" x2="377" y2="332" stroke="#1E293B"/>
       <line x1="73" y1="332" x2="113" y2="332" stroke="#3B82F6" stroke-width="2"/>
-      <text x="73" y="362" font-size="15" fill="#94A3B8"><tspan x="73" dy="0">Tối ưu tốc độ tải, SEO và</tspan><tspan x="73" dy="22">accessibility — đo bằng số liệu,</tspan><tspan x="73" dy="22">không đoán.</tspan></text>
+      <text x="73" y="362" font-size="15" fill="#94A3B8"><tspan x="73" dy="0">Fast load times, SEO and</tspan><tspan x="73" dy="22">accessibility — measured with real</tspan><tspan x="73" dy="22">metrics, not guesses.</tspan></text>
     </g><g class="up" style="animation-delay:0.63s">
       <rect x="435" y="250" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
       <rect x="435" y="250" width="360" height="190" rx="16" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
@@ -83,7 +83,7 @@
       <text x="773" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">05</text>
       <line x1="463" y1="332" x2="767" y2="332" stroke="#1E293B"/>
       <line x1="463" y1="332" x2="503" y2="332" stroke="#38BDF8" stroke-width="2"/>
-      <text x="463" y="362" font-size="15" fill="#94A3B8"><tspan x="463" dy="0">Node.js, Express và MongoDB cho</tspan><tspan x="463" dy="22">các dự án end-to-end từ backend</tspan><tspan x="463" dy="22">đến frontend.</tspan></text>
+      <text x="463" y="362" font-size="15" fill="#94A3B8"><tspan x="463" dy="0">Node.js, Express and MongoDB for</tspan><tspan x="463" dy="22">end-to-end projects, from backend</tspan><tspan x="463" dy="22">to frontend.</tspan></text>
     </g><g class="up" style="animation-delay:0.75s">
       <rect x="825" y="250" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
       <rect x="825" y="250" width="360" height="190" rx="16" fill="none" stroke="#818CF8" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
@@ -91,11 +91,11 @@
       </rect>
       <rect x="853" y="276" width="52" height="40" rx="10" fill="#818CF8" fill-opacity=".12" stroke="#818CF8" stroke-opacity=".5"/>
       <text x="879" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#818CF8" text-anchor="middle">🔭</text>
-      <text x="921" y="302" font-size="20" font-weight="700" fill="#E2E8F0">Đang theo đuổi</text>
+      <text x="921" y="302" font-size="20" font-weight="700" fill="#E2E8F0">Currently Exploring</text>
       <text x="1163" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">06</text>
       <line x1="853" y1="332" x2="1157" y2="332" stroke="#1E293B"/>
       <line x1="853" y1="332" x2="893" y2="332" stroke="#818CF8" stroke-width="2"/>
-      <text x="853" y="362" font-size="15" fill="#94A3B8"><tspan x="853" dy="0">Dự án web full-stack, thử nghiệm</tspan><tspan x="853" dy="22">công nghệ mới để giải quyết bài</tspan><tspan x="853" dy="22">toán thực tế.</tspan></text>
+      <text x="853" y="362" font-size="15" fill="#94A3B8"><tspan x="853" dy="0">Full-stack web projects and new</tspan><tspan x="853" dy="22">technologies that solve real-world</tspan><tspan x="853" dy="22">problems.</tspan></text>
     </g>
   <rect x="180" y="0" width="840" height="1.5" fill="url(#topline)" opacity=".8"/>
 </g>

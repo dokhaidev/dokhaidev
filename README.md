@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hu%E1%BB%B3nh+Phan+%C4%90%E1%BB%97+Kh%E1%BA%A3i+%C2%B7+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;From+pixel+to+production." alt="Typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Richard+Huynh+%C2%B7+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;From+pixel+to+production." alt="Typing tagline" />
 
 <br/><br/>
 
@@ -22,9 +22,9 @@
 
 <br/>
 
-<img src="assets/h-about.svg" width="100%" alt="01 — Giới thiệu" />
+<img src="assets/h-about.svg" width="100%" alt="01 — About Me" />
 
-<img src="assets/about.svg" width="100%" alt="Frontend Engineering · UI/UX First · API Integration · Performance · Full-stack · Đang theo đuổi" />
+<img src="assets/about.svg" width="100%" alt="Frontend Engineering · UI/UX First · API Integration · Performance · Full-stack · Currently Exploring" />
 
 <br/><br/>
 
@@ -36,11 +36,11 @@
 <br/><br/>
 </div>
 
-<img src="assets/stack.svg" width="100%" alt="Ngôn ngữ · Frontend · Backend · Cơ sở dữ liệu · Công cụ" />
+<img src="assets/stack.svg" width="100%" alt="Languages · Frontend · Backend · Database · Tools" />
 
 <br/><br/>
 
-<img src="assets/h-projects.svg" width="100%" alt="03 — Dự án nổi bật" />
+<img src="assets/h-projects.svg" width="100%" alt="03 — Featured Projects" />
 
 <p align="center">
 <a href="https://all-in-one-platform-xi.vercel.app"><img src="assets/p-all-in-one.svg" width="49%" alt="All-in-One Platform" /></a>
@@ -57,7 +57,7 @@
 <summary><b>Source code &amp; demo</b></summary>
 <br/>
 
-| Dự án | Stack | Link |
+| Project | Stack | Links |
 | :--- | :--- | :--- |
 | **All-in-One Platform** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/all-in-one-platform) · [Demo](https://all-in-one-platform-xi.vercel.app) |
 | **CellphoneS Clone** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/cellphoneS-clone) · [Demo](https://cellphones-three.vercel.app) |
@@ -70,7 +70,7 @@
 
 <br/>
 
-<img src="assets/h-flow.svg" width="100%" alt="04 — Cách mình làm sản phẩm" />
+<img src="assets/h-flow.svg" width="100%" alt="04 — How I Build Products" />
 
 <img src="assets/flow.svg" width="100%" alt="Research → Design → Build → Integrate → Optimize → Ship" />
 

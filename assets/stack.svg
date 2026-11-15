@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0A0F"/><stop offset="1" stop-color="#1B1510"/></linearGradient>
+  <clipPath id="round"><rect width="1200" height="360" rx="22"/></clipPath>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#2A2420"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="28 28" dur="14s" repeatCount="indefinite"/>
+  </pattern>
+  <radialGradient id="fade" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <mask id="gridMask"><rect width="1200" height="360" fill="url(#fade)"/></mask>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  
+</defs>
+<style>
+  .up{animation:up .9s cubic-bezier(.2,.7,.2,1) both}
+  @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+  .blink{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}</style>
+<g clip-path="url(#round)">
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#dots)" mask="url(#gridMask)"/>
+  
+  <circle cx="950" cy="180" r="170" fill="#FB7185" opacity="0.14" filter="url(#blur)">
+    <animate attributeName="cx" values="950;890;950" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="180;210;180" dur="14s" repeatCount="indefinite"/>
+  </circle><text class="up" style="animation-delay:0.1s" x="60" y="66" font-size="13" font-weight="700" letter-spacing="2" fill="#7C7368">NGÔN NGỮ</text>
+      <line x1="60" y1="92" x2="1140" y2="92" stroke="#2A2420" stroke-opacity=".6"/><g class="up" style="animation-delay:0.2s">
+        <rect x="290" y="42" width="132" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="308" cy="61" r="4" fill="#F7B93E"/>
+        <text x="320" y="66" font-size="15" font-weight="600" fill="#F5F0E8">JavaScript</text></g><g class="up" style="animation-delay:0.26s">
+        <rect x="434" y="42" width="132" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="452" cy="61" r="4" fill="#F7B93E"/>
+        <text x="464" y="66" font-size="15" font-weight="600" fill="#F5F0E8">TypeScript</text></g><g class="up" style="animation-delay:0.32s">
+        <rect x="578" y="42" width="86" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="596" cy="61" r="4" fill="#F7B93E"/>
+        <text x="608" y="66" font-size="15" font-weight="600" fill="#F5F0E8">HTML5</text></g><g class="up" style="animation-delay:0.38s">
+        <rect x="676" y="42" width="77" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="694" cy="61" r="4" fill="#F7B93E"/>
+        <text x="706" y="66" font-size="15" font-weight="600" fill="#F5F0E8">CSS3</text></g><text class="up" style="animation-delay:0.2s" x="60" y="128" font-size="13" font-weight="700" letter-spacing="2" fill="#7C7368">FRONTEND</text>
+      <line x1="60" y1="154" x2="1140" y2="154" stroke="#2A2420" stroke-opacity=".6"/><g class="up" style="animation-delay:0.44s">
+        <rect x="290" y="104" width="86" height="38" rx="19" fill="#FB7185" fill-opacity=".08" stroke="#FB7185" stroke-opacity=".45"/>
+        <circle cx="308" cy="123" r="4" fill="#FB7185"/>
+        <text x="320" y="128" font-size="15" font-weight="600" fill="#F5F0E8">React</text></g><g class="up" style="animation-delay:0.5s">
+        <rect x="388" y="104" width="104" height="38" rx="19" fill="#FB7185" fill-opacity=".08" stroke="#FB7185" stroke-opacity=".45"/>
+        <circle cx="406" cy="123" r="4" fill="#FB7185"/>
+        <text x="418" y="128" font-size="15" font-weight="600" fill="#F5F0E8">Next.js</text></g><g class="up" style="animation-delay:0.56s">
+        <rect x="504" y="104" width="86" height="38" rx="19" fill="#FB7185" fill-opacity=".08" stroke="#FB7185" stroke-opacity=".45"/>
+        <circle cx="522" cy="123" r="4" fill="#FB7185"/>
+        <text x="534" y="128" font-size="15" font-weight="600" fill="#F5F0E8">Redux</text></g><g class="up" style="animation-delay:0.62s">
+        <rect x="602" y="104" width="150" height="38" rx="19" fill="#FB7185" fill-opacity=".08" stroke="#FB7185" stroke-opacity=".45"/>
+        <circle cx="620" cy="123" r="4" fill="#FB7185"/>
+        <text x="632" y="128" font-size="15" font-weight="600" fill="#F5F0E8">Tailwind CSS</text></g><text class="up" style="animation-delay:0.30000000000000004s" x="60" y="190" font-size="13" font-weight="700" letter-spacing="2" fill="#7C7368">BACKEND</text>
+      <line x1="60" y1="216" x2="1140" y2="216" stroke="#2A2420" stroke-opacity=".6"/><g class="up" style="animation-delay:0.6799999999999999s">
+        <rect x="290" y="166" width="104" height="38" rx="19" fill="#2DD4BF" fill-opacity=".08" stroke="#2DD4BF" stroke-opacity=".45"/>
+        <circle cx="308" cy="185" r="4" fill="#2DD4BF"/>
+        <text x="320" y="190" font-size="15" font-weight="600" fill="#F5F0E8">Node.js</text></g><g class="up" style="animation-delay:0.74s">
+        <rect x="406" y="166" width="104" height="38" rx="19" fill="#2DD4BF" fill-opacity=".08" stroke="#2DD4BF" stroke-opacity=".45"/>
+        <circle cx="424" cy="185" r="4" fill="#2DD4BF"/>
+        <text x="436" y="190" font-size="15" font-weight="600" fill="#F5F0E8">Express</text></g><g class="up" style="animation-delay:0.8s">
+        <rect x="522" y="166" width="114" height="38" rx="19" fill="#2DD4BF" fill-opacity=".08" stroke="#2DD4BF" stroke-opacity=".45"/>
+        <circle cx="540" cy="185" r="4" fill="#2DD4BF"/>
+        <text x="552" y="190" font-size="15" font-weight="600" fill="#F5F0E8">REST API</text></g><text class="up" style="animation-delay:0.4s" x="60" y="252" font-size="13" font-weight="700" letter-spacing="2" fill="#7C7368">CƠ SỞ DỮ LIỆU</text>
+      <line x1="60" y1="278" x2="1140" y2="278" stroke="#2A2420" stroke-opacity=".6"/><g class="up" style="animation-delay:0.8599999999999999s">
+        <rect x="290" y="228" width="104" height="38" rx="19" fill="#FB923C" fill-opacity=".08" stroke="#FB923C" stroke-opacity=".45"/>
+        <circle cx="308" cy="247" r="4" fill="#FB923C"/>
+        <text x="320" y="252" font-size="15" font-weight="600" fill="#F5F0E8">MongoDB</text></g><text class="up" style="animation-delay:0.5s" x="60" y="314" font-size="13" font-weight="700" letter-spacing="2" fill="#7C7368">CÔNG CỤ &amp; THIẾT KẾ</text>
+      <line x1="60" y1="340" x2="1140" y2="340" stroke="#2A2420" stroke-opacity=".6"/><g class="up" style="animation-delay:0.9199999999999999s">
+        <rect x="290" y="290" width="68" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="308" cy="309" r="4" fill="#F7B93E"/>
+        <text x="320" y="314" font-size="15" font-weight="600" fill="#F5F0E8">Git</text></g><g class="up" style="animation-delay:0.98s">
+        <rect x="370" y="290" width="95" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="388" cy="309" r="4" fill="#F7B93E"/>
+        <text x="400" y="314" font-size="15" font-weight="600" fill="#F5F0E8">GitHub</text></g><g class="up" style="animation-delay:1.04s">
+        <rect x="477" y="290" width="86" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="495" cy="309" r="4" fill="#F7B93E"/>
+        <text x="507" y="314" font-size="15" font-weight="600" fill="#F5F0E8">Figma</text></g><g class="up" style="animation-delay:1.0999999999999999s">
+        <rect x="575" y="290" width="104" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="593" cy="309" r="4" fill="#F7B93E"/>
+        <text x="605" y="314" font-size="15" font-weight="600" fill="#F5F0E8">VS Code</text></g><g class="up" style="animation-delay:1.16s">
+        <rect x="691" y="290" width="95" height="38" rx="19" fill="#F7B93E" fill-opacity=".08" stroke="#F7B93E" stroke-opacity=".45"/>
+        <circle cx="709" cy="309" r="4" fill="#F7B93E"/>
+        <text x="721" y="314" font-size="15" font-weight="600" fill="#F5F0E8">Vercel</text></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="359" rx="22" fill="none" stroke="#2A2420"/>
+</svg>

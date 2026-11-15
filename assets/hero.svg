@@ -24,39 +24,41 @@
   </g>
   <text class="in" style="animation-delay:0.15s" x="46" y="158" font-size="60" font-weight="700" letter-spacing="-1.8" fill="#E6EDF3">Richard Huynh</text>
   <text class="in" style="animation-delay:0.25s" x="48" y="194" font-size="16" fill="#6E7681">Huỳnh Phan Đỗ Khải  ·  <tspan font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" fill="#8B949E">@dokhaidev</tspan></text>
-  <text class="in" style="animation-delay:0.35s" x="48" y="244" font-size="22" font-weight="600" fill="#C9D1D9">Software Engineer <tspan fill="#484F58">/</tspan> Web Developer</text>
-  <text class="in" style="animation-delay:0.45s" x="48" y="276" font-size="16" fill="#8B949E">I build fast, accessible web products with React, Next.js and TypeScript.</text>
+  <text class="in" style="animation-delay:0.35s" x="48" y="244" font-size="22" font-weight="600" fill="#C9D1D9">Software Engineer <tspan fill="#484F58">/</tspan> Full-stack</text>
+  <text class="in" style="animation-delay:0.45s" x="48" y="276" font-size="16" fill="#8B949E">I build business platforms — CMS, CRM, ERP — from database to cloud.</text>
 
   <g class="in" style="animation-delay:0.55s" font-size="13.5" fill="#8B949E">
     <line x1="48" y1="312" x2="612" y2="312" stroke="#21262D"/>
-    <text x="48" y="342"><tspan fill="#6E7681">Company</tspan>  <tspan fill="#C9D1D9">SMAC Technology</tspan></text>
+    <text x="48" y="342"><tspan fill="#6E7681">Company</tspan>  <tspan fill="#C9D1D9">Amoiq</tspan></text>
     <text x="246" y="342"><tspan fill="#6E7681">Based in</tspan>  <tspan fill="#C9D1D9">Vietnam · UTC+7</tspan></text>
     <text x="448" y="342"><tspan fill="#6E7681">Web</tspan>  <tspan fill="#58A6FF">dookei.dev</tspan></text>
   </g>
 
   <g class="in" style="animation-delay:0.3s">
-    <rect x="690" y="64" width="450" height="252" rx="10" fill="#111722" stroke="#30363D"/>
-    <line x1="690" y1="102" x2="1140" y2="102" stroke="#21262D"/>
-    <circle cx="710" cy="83" r="5" fill="#30363D"/><circle cx="728" cy="83" r="5" fill="#30363D"/><circle cx="746" cy="83" r="5" fill="#30363D"/>
-    <text x="915" y="88" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#6E7681" text-anchor="middle">about.ts</text>
-    <text x="1122" y="88" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#484F58" text-anchor="end">TS</text>
+    <rect x="690" y="46" width="450" height="288" rx="10" fill="#111722" stroke="#30363D"/>
+    <line x1="690" y1="84" x2="1140" y2="84" stroke="#21262D"/>
+    <circle cx="710" cy="65" r="5" fill="#30363D"/><circle cx="728" cy="65" r="5" fill="#30363D"/><circle cx="746" cy="65" r="5" fill="#30363D"/>
+    <text x="915" y="70" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#6E7681" text-anchor="middle">about.ts</text>
+    <text x="1122" y="70" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#484F58" text-anchor="end">TS</text>
   </g>
   <g class="in" style="animation-delay:0.5s">
-      <text x="712" y="140" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">1</text>
-      <text x="742" y="140" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#FF7B72">const&#160;</tspan><tspan fill="#E6EDF3">richard</tspan><tspan fill="#8B949E">&#160;=&#160;{</tspan></text></g><g class="in" style="animation-delay:0.5700000000000001s">
-      <text x="712" y="164" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">2</text>
-      <text x="742" y="164" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;role</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'Software&#160;Engineer'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.64s">
-      <text x="712" y="188" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">3</text>
-      <text x="742" y="188" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;company</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'SMAC&#160;Technology'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.71s">
-      <text x="712" y="212" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">4</text>
-      <text x="742" y="212" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;stack</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">'React'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'Next.js'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'TS'</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.78s">
-      <text x="712" y="236" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">5</text>
-      <text x="742" y="236" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;focus</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'UI/UX&#160;·&#160;Performance'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.8500000000000001s">
-      <text x="712" y="260" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">6</text>
-      <text x="742" y="260" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;location</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'Vietnam'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.92s">
-      <text x="712" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">7</text>
-      <text x="742" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#8B949E">};</tspan></text></g>
-  <rect class="blink" x="762.8" y="271" width="8" height="17" fill="#58A6FF" opacity=".85"/>
+      <text x="712" y="122" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">1</text>
+      <text x="742" y="122" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#FF7B72">const&#160;</tspan><tspan fill="#E6EDF3">richard</tspan><tspan fill="#8B949E">&#160;=&#160;{</tspan></text></g><g class="in" style="animation-delay:0.5700000000000001s">
+      <text x="712" y="146" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">2</text>
+      <text x="742" y="146" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;role</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'Software&#160;Engineer'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.64s">
+      <text x="712" y="170" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">3</text>
+      <text x="742" y="170" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;company</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'Amoiq'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.71s">
+      <text x="712" y="194" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">4</text>
+      <text x="742" y="194" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;builds</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">'CMS'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'CRM'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'ERP'</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.78s">
+      <text x="712" y="218" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">5</text>
+      <text x="742" y="218" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;stack</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">'TS'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'Python'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'Odoo'</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.8500000000000001s">
+      <text x="712" y="242" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">6</text>
+      <text x="742" y="242" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;infra</tspan><tspan fill="#8B949E">:&#160;[</tspan><tspan fill="#A5D6FF">'K8s'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'S3'</tspan><tspan fill="#8B949E">,&#160;</tspan><tspan fill="#A5D6FF">'R2'</tspan><tspan fill="#8B949E">],</tspan></text></g><g class="in" style="animation-delay:0.92s">
+      <text x="712" y="266" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">7</text>
+      <text x="742" y="266" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#79C0FF">&#160;&#160;exploring</tspan><tspan fill="#8B949E">:&#160;</tspan><tspan fill="#A5D6FF">'AI&#160;automation'</tspan><tspan fill="#8B949E">,</tspan></text></g><g class="in" style="animation-delay:0.99s">
+      <text x="712" y="290" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#484F58" text-anchor="end" dx="12">8</text>
+      <text x="742" y="290" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14"><tspan fill="#8B949E">};</tspan></text></g>
+  <rect class="blink" x="762.8" y="277" width="8" height="17" fill="#58A6FF" opacity=".85"/>
 </g>
 <rect x=".5" y=".5" width="1199" height="379" rx="12" fill="none" stroke="#21262D"/>
 </svg>

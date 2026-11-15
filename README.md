@@ -1,86 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F7B93E&center=true&vCenter=true&width=600&lines=Hu%E1%BB%B3nh+Phan+%C4%90%E1%BB%97+Kh%E1%BA%A3i;Software+Engineer;React+%2F+Next.js+%2F+TypeScript" alt="Typing SVG" />
+<img src="assets/hero.svg" width="100%" alt="Richard Huynh — Software Engineer · Web Developer" />
 
-<br />
+<br/>
 
-**Software Engineer** · React / Next.js / TypeScript · UI/UX
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=F7B93E&center=true&vCenter=true&width=760&lines=Hu%E1%BB%B3nh+Phan+%C4%90%E1%BB%97+Kh%E1%BA%A3i+%C2%B7+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;From+pixel+to+production." alt="Typing tagline" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dookei.dev-F7B93E?style=for-the-badge&logo=vercel&logoColor=white)](https://dokhaidev.github.io/dookei.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-dokhaidev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dokhaidev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<br/><br/>
+
+<a href="https://dokhaidev.github.io/dookei.dev/"><img src="https://img.shields.io/badge/Portfolio-dookei.dev-F7B93E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=13110F" alt="Portfolio" /></a>
+<a href="https://github.com/dokhaidev"><img src="https://img.shields.io/badge/GitHub-dokhaidev-F5F0E8?style=for-the-badge&logo=github&logoColor=white&labelColor=13110F" alt="GitHub" /></a>
+<a href="https://facebook.com/dokhai0865"><img src="https://img.shields.io/badge/Facebook-dokhai0865-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=13110F" alt="Facebook" /></a>
+<a href="https://instagram.com/dookei__"><img src="https://img.shields.io/badge/Instagram-dookei__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=13110F" alt="Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=dokhaidev&style=for-the-badge&color=F7B93E&label=Profile+views" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-## 📌 Giới thiệu
+<img src="assets/h-about.svg" width="100%" alt="01 — Giới thiệu" />
 
-| | |
-| :--- | :--- |
-| 🧑‍💻 **Vai trò** | Software Engineer |
-| 🌏 **Vị trí** | Việt Nam |
-| 🎯 **Chuyên môn** | React, Next.js, TypeScript — xây dựng sản phẩm web hoàn chỉnh từ frontend đến tích hợp API |
-| 🎨 **Định hướng** | Ưu tiên UI/UX rõ ràng, hiệu năng tốt và trải nghiệm mượt mà trong từng sản phẩm |
-| 🔭 **Hiện tại** | Phát triển các dự án web full-stack, thử nghiệm công nghệ mới để giải quyết bài toán thực tế |
-| 📫 **Liên hệ** | [Email](mailto:YOUR_EMAIL@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) |
+<img src="assets/about.svg" width="100%" alt="Frontend Engineering · UI/UX First · API Integration · Performance · Full-stack · Đang theo đuổi" />
 
----
+<br/><br/>
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,figma,git,github,vscode" alt="Tech stack" />
-</p>
-
-| Nhóm | Công nghệ |
-| :--- | :--- |
-| **Ngôn ngữ** | JavaScript · TypeScript |
-| **Frontend** | React · Next.js · Redux · Tailwind CSS |
-| **Backend** | Node.js · Express |
-| **Cơ sở dữ liệu** | MongoDB |
-| **Công cụ & thiết kế** | Git · GitHub · Figma · VS Code |
-
----
-
-## 🚀 Dự án nổi bật
-
-| Dự án | Mô tả | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **All-in-One Platform** | Nền tảng web đa chức năng, giao diện hiện đại | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/all-in-one-platform) · [Demo](https://all-in-one-platform-xi.vercel.app) |
-| **CellphoneS Clone** | Clone giao diện thương mại điện tử | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/cellphoneS-clone) · [Demo](https://cellphones-three.vercel.app) |
-| **Product Management** | Dashboard quản lý sản phẩm | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/product-management) · [Demo](https://handee-rose.vercel.app) |
-| **Quiz App** | Ứng dụng quiz tương tác | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/quiz-app) · [Demo](https://quiz-app-lime-eta.vercel.app) |
-| **Photography Portfolio** | Portfolio nhiếp ảnh | `HTML` `CSS` | [Repo](https://github.com/dokhaidev/photography) · [Demo](https://photography-iota-ruby.vercel.app) |
-| **Booking Sushi** | Hệ thống đặt bàn nhà hàng | `PHP` | [Repo](https://github.com/dokhaidev/booking-sushi) |
-
----
-
-## 📊 GitHub Stats
+<img src="assets/h-stack.svg" width="100%" alt="02 — Tech Stack" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dokhaidev&show_icons=true&theme=transparent&hide_border=true&title_color=F7B93E&icon_color=F7B93E&text_color=c9d1d9&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dokhaidev&layout=compact&theme=transparent&hide_border=true&title_color=F7B93E&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,figma,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<br/><br/>
 </div>
+
+<img src="assets/stack.svg" width="100%" alt="Ngôn ngữ · Frontend · Backend · Cơ sở dữ liệu · Công cụ" />
+
+<br/><br/>
+
+<img src="assets/h-projects.svg" width="100%" alt="03 — Dự án nổi bật" />
+
+<p align="center">
+<a href="https://all-in-one-platform-xi.vercel.app"><img src="assets/p-all-in-one.svg" width="49%" alt="All-in-One Platform" /></a>
+<a href="https://cellphones-three.vercel.app"><img src="assets/p-cellphones.svg" width="49%" alt="CellphoneS Clone" /></a>
+<br/>
+<a href="https://handee-rose.vercel.app"><img src="assets/p-product-mgmt.svg" width="49%" alt="Product Management" /></a>
+<a href="https://quiz-app-lime-eta.vercel.app"><img src="assets/p-quiz.svg" width="49%" alt="Quiz App" /></a>
+<br/>
+<a href="https://photography-iota-ruby.vercel.app"><img src="assets/p-photography.svg" width="49%" alt="Photography Portfolio" /></a>
+<a href="https://github.com/dokhaidev/booking-sushi"><img src="assets/p-sushi.svg" width="49%" alt="Booking Sushi" /></a>
+</p>
+
+<details>
+<summary><b>Source code &amp; demo</b></summary>
+<br/>
+
+| Dự án | Stack | Link |
+| :--- | :--- | :--- |
+| **All-in-One Platform** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/all-in-one-platform) · [Demo](https://all-in-one-platform-xi.vercel.app) |
+| **CellphoneS Clone** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/cellphoneS-clone) · [Demo](https://cellphones-three.vercel.app) |
+| **Product Management** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/product-management) · [Demo](https://handee-rose.vercel.app) |
+| **Quiz App** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/quiz-app) · [Demo](https://quiz-app-lime-eta.vercel.app) |
+| **Photography Portfolio** | `HTML` `CSS` | [Repo](https://github.com/dokhaidev/photography) · [Demo](https://photography-iota-ruby.vercel.app) |
+| **Booking Sushi** | `PHP` | [Repo](https://github.com/dokhaidev/booking-sushi) |
+
+</details>
+
+<br/>
+
+<img src="assets/h-flow.svg" width="100%" alt="04 — Cách mình làm sản phẩm" />
+
+<img src="assets/flow.svg" width="100%" alt="Research → Design → Build → Integrate → Optimize → Ship" />
+
+<br/><br/>
+
+<img src="assets/h-stats.svg" width="100%" alt="05 — GitHub Activity" />
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=dokhaidev&theme=transparent&hide_border=true&ring=F7B93E&fire=F7B93E&currStreakLabel=F7B93E" alt="GitHub streak" />
+<br/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dokhaidev&theme=github_dark" alt="Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dokhaidev&theme=github_dark" alt="Languages" />
+<br/>
+<img height="170" src="https://streak-stats.demolab.com?user=dokhaidev&theme=dark&hide_border=true&background=13110F&ring=F7B93E&fire=FB7185&currStreakLabel=F7B93E" alt="Streak" />
 </div>
 
----
+<br/>
 
-## 🤝 Kết nối
-
-<p align="center">
-  <a href="https://dokhaidev.github.io/dookei.dev/"><img src="https://img.shields.io/badge/Portfolio-F7B93E?style=flat-square&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://github.com/dokhaidev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <i>Building clean, reliable software — one commit at a time.</i>
-</p>
+<img src="assets/footer.svg" width="100%" alt="Building clean, reliable software — one commit at a time." />

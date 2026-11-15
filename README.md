@@ -4,17 +4,21 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=F7B93E&center=true&vCenter=true&width=760&lines=Hu%E1%BB%B3nh+Phan+%C4%90%E1%BB%97+Kh%E1%BA%A3i+%C2%B7+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;From+pixel+to+production." alt="Typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hu%E1%BB%B3nh+Phan+%C4%90%E1%BB%97+Kh%E1%BA%A3i+%C2%B7+Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+UI%2FUX;From+pixel+to+production." alt="Typing tagline" />
 
 <br/><br/>
 
-<a href="https://dokhaidev.github.io/dookei.dev/"><img src="https://img.shields.io/badge/Portfolio-dookei.dev-F7B93E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=13110F" alt="Portfolio" /></a>
-<a href="https://github.com/dokhaidev"><img src="https://img.shields.io/badge/GitHub-dokhaidev-F5F0E8?style=for-the-badge&logo=github&logoColor=white&labelColor=13110F" alt="GitHub" /></a>
-<a href="https://facebook.com/dokhai0865"><img src="https://img.shields.io/badge/Facebook-dokhai0865-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=13110F" alt="Facebook" /></a>
-<a href="https://instagram.com/dookei__"><img src="https://img.shields.io/badge/Instagram-dookei__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=13110F" alt="Instagram" /></a>
-<img src="https://komarev.com/ghpvc/?username=dokhaidev&style=for-the-badge&color=F7B93E&label=Profile+views" alt="Profile views" />
+<a href="https://dokhaidev.github.io/dookei.dev/"><img src="https://img.shields.io/badge/Portfolio-dookei.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1226" alt="Portfolio" /></a>
+<a href="https://github.com/dokhaidev"><img src="https://img.shields.io/badge/GitHub-dokhaidev-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1226" alt="GitHub" /></a>
+<a href="https://facebook.com/dokhai0865"><img src="https://img.shields.io/badge/Facebook-dokhai0865-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0B1226" alt="Facebook" /></a>
+<a href="https://instagram.com/dookei__"><img src="https://img.shields.io/badge/Instagram-dookei__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1226" alt="Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=dokhaidev&style=for-the-badge&color=7C3AED&label=Profile+views" alt="Profile views" />
 
 </div>
+
+<br/>
+
+<img src="assets/highlights.svg" width="100%" alt="Highlights" />
 
 <br/>
 
@@ -79,7 +83,7 @@
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dokhaidev&theme=github_dark" alt="Stats" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dokhaidev&theme=github_dark" alt="Languages" />
 <br/>
-<img height="170" src="https://streak-stats.demolab.com?user=dokhaidev&theme=dark&hide_border=true&background=13110F&ring=F7B93E&fire=FB7185&currStreakLabel=F7B93E" alt="Streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=dokhaidev&theme=dark&hide_border=true&background=0B1226&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="Streak" />
 </div>
 
 <br/>

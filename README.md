@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Richard Huynh — Software Engineer / Web Developer" />
+<img src="assets/hero.svg" width="100%" alt="Richard Huynh — Software Engineer / Full-stack" />
 
 <p align="center">
   <a href="https://dokhaidev.github.io/dookei.dev/"><img src="https://img.shields.io/badge/dookei.dev-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -8,50 +8,27 @@
   <img src="https://komarev.com/ghpvc/?username=dokhaidev&style=flat-square&color=30363D&label=views" alt="Profile views" />
 </p>
 
-<img src="assets/highlights.svg" width="100%" alt="20+ public repositories · 6 products shipped · 15+ technologies · SMAC Technology" />
+<img src="assets/highlights.svg" width="100%" alt="Full-stack · CMS / CRM / ERP · AI automation · Amoiq" />
 
 <br/><br/>
 
 <img src="assets/h-about.svg" width="100%" alt="01 — About" />
-<img src="assets/about.svg" width="100%" alt="Frontend Engineering · UI/UX First · API Integration · Performance · Full-stack · Currently Exploring" />
+<img src="assets/about.svg" width="100%" alt="Full-stack Engineering · Business Systems · AI Automation · Cloud & DevOps · Odoo & Integrations · Product & UI/UX" />
 
 <br/><br/>
 
 <img src="assets/h-stack.svg" width="100%" alt="02 — Tech Stack" />
-<img src="assets/stack.svg" width="100%" alt="Languages · Frontend · Backend · Database · Tools & Design" />
+<img src="assets/stack.svg" width="100%" alt="Languages · Frontend · Backend · Database · Business Platforms · AI & Automation · Cloud & DevOps · Tools" />
 
 <br/><br/>
 
-<img src="assets/h-projects.svg" width="100%" alt="03 — Selected Work" />
+<img src="assets/h-build.svg" width="100%" alt="03 — What I Build" />
+<img src="assets/build.svg" width="100%" alt="CMS · CRM · ERP · Business Operations · AI Workflow Automation · Odoo Solutions" />
 
-<p align="center">
-<a href="https://all-in-one-platform-xi.vercel.app"><img src="assets/p-all-in-one.svg" width="49%" alt="All-in-One Platform" /></a>
-<a href="https://cellphones-three.vercel.app"><img src="assets/p-cellphones.svg" width="49%" alt="CellphoneS Clone" /></a>
-<a href="https://handee-rose.vercel.app"><img src="assets/p-product-mgmt.svg" width="49%" alt="Product Management" /></a>
-<a href="https://quiz-app-lime-eta.vercel.app"><img src="assets/p-quiz.svg" width="49%" alt="Quiz App" /></a>
-<a href="https://photography-iota-ruby.vercel.app"><img src="assets/p-photography.svg" width="49%" alt="Photography Portfolio" /></a>
-<a href="https://github.com/dokhaidev/booking-sushi"><img src="assets/p-sushi.svg" width="49%" alt="Booking Sushi" /></a>
-</p>
-
-<details>
-<summary>Source code &amp; demos</summary>
-<br/>
-
-| Project | Stack | Links |
-| :--- | :--- | :--- |
-| **All-in-One Platform** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/all-in-one-platform) · [Demo](https://all-in-one-platform-xi.vercel.app) |
-| **CellphoneS Clone** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/cellphoneS-clone) · [Demo](https://cellphones-three.vercel.app) |
-| **Product Management** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/product-management) · [Demo](https://handee-rose.vercel.app) |
-| **Quiz App** | `Next.js` `TypeScript` | [Repo](https://github.com/dokhaidev/quiz-app) · [Demo](https://quiz-app-lime-eta.vercel.app) |
-| **Photography Portfolio** | `HTML` `CSS` | [Repo](https://github.com/dokhaidev/photography) · [Demo](https://photography-iota-ruby.vercel.app) |
-| **Booking Sushi** | `PHP` | [Repo](https://github.com/dokhaidev/booking-sushi) |
-
-</details>
-
-<br/>
+<br/><br/>
 
 <img src="assets/h-flow.svg" width="100%" alt="04 — Process" />
-<img src="assets/flow.svg" width="100%" alt="Research → Design → Build → Integrate → Optimize → Ship" />
+<img src="assets/flow.svg" width="100%" alt="Discover → Model → Build → Integrate → Automate → Deploy" />
 
 <br/><br/>
 

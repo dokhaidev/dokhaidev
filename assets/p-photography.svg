@@ -1,48 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0A0F"/><stop offset="1" stop-color="#1B1510"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060A17"/><stop offset="1" stop-color="#0E1834"/></linearGradient>
   <clipPath id="round"><rect width="580" height="230" rx="18"/></clipPath>
-  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-    <circle cx="2" cy="2" r="1.2" fill="#2A2420"/>
-    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="28 28" dur="14s" repeatCount="indefinite"/>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0 H0 V40" fill="none" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="0" cy="0" r="1.6" fill="#334155"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="16s" repeatCount="indefinite"/>
   </pattern>
-  <radialGradient id="fade" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="fade" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
   <mask id="gridMask"><rect width="580" height="230" fill="url(#fade)"/></mask>
+  <linearGradient id="topline" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
   <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
   <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   
 </defs>
 <style>
   .up{animation:up .9s cubic-bezier(.2,.7,.2,1) both}
-  @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
-  .blink{animation:blink 1s steps(1) infinite}
-  @keyframes blink{50%{opacity:0}}</style>
+  @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}</style>
 <g clip-path="url(#round)">
   <rect width="580" height="230" fill="url(#bg)"/>
-  <rect width="580" height="230" fill="url(#dots)" mask="url(#gridMask)"/>
+  <rect width="580" height="230" fill="url(#grid)" mask="url(#gridMask)" opacity=".75"/>
   
     
-  <circle cx="500" cy="40" r="110" fill="#F7B93E" opacity="0.2" filter="url(#blur)">
+  <circle cx="500" cy="40" r="110" fill="#38BDF8" opacity="0.22" filter="url(#blur)">
     <animate attributeName="cx" values="500;460;500" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="40;70;40" dur="12s" repeatCount="indefinite"/>
   </circle>
-    <rect width="580" height="230" rx="18" fill="none" stroke="#F7B93E" stroke-width="2" stroke-dasharray="160 1620" stroke-linecap="round" opacity=".9">
+    <path d="M12 24 V12 H24 M556 12 H568 V24 M12 206 V218 H24 M556 218 H568 V206" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-opacity="0.45" stroke-linecap="round"/>
+    <rect width="580" height="230" rx="18" fill="none" stroke="#38BDF8" stroke-width="2" stroke-dasharray="160 1620" stroke-linecap="round" opacity=".9">
       <animate attributeName="stroke-dashoffset" from="600" to="-1180" dur="7s" repeatCount="indefinite"/>
     </rect>
     <g class="up" style="animation-delay:0.1s">
-      <text x="32" y="52" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#F7B93E">05</text>
-      <text x="64" y="52" font-size="12" font-weight="700" letter-spacing="2" fill="#7C7368">PROJECT</text>
-      <text x="32" y="96" font-size="26" font-weight="800" fill="#F5F0E8" letter-spacing="-.4">Photography Portfolio</text>
-      <text x="32" y="128" font-size="15" fill="#B8AFA3">Portfolio nhiếp ảnh,</text>
-      <text x="32" y="150" font-size="15" fill="#B8AFA3">tập trung vào hình ảnh.</text>
-      <rect x="32" y="168" width="59.6" height="28" rx="14" fill="#F7B93E" fill-opacity=".1" stroke="#F7B93E" stroke-opacity=".45"/><text x="61.8" y="187" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" fill="#F7B93E" text-anchor="middle">HTML</text><rect x="101.6" y="168" width="51.2" height="28" rx="14" fill="#F7B93E" fill-opacity=".1" stroke="#F7B93E" stroke-opacity=".45"/><text x="127.19999999999999" y="187" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" fill="#F7B93E" text-anchor="middle">CSS</text>
+      <text x="32" y="52" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#38BDF8">05</text>
+      <text x="64" y="52" font-size="12" font-weight="700" letter-spacing="2" fill="#64748B">PROJECT</text>
+      <rect x="476" y="34" width="72" height="26" rx="13" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".5"/>
+      <circle cx="492" cy="47" r="3.5" fill="#34D399"/>
+  <circle cx="492" cy="47" r="3.5" fill="none" stroke="#34D399" stroke-width="2">
+    <animate attributeName="r" values="3.5;10.5" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+      <text x="502" y="51.5" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#34D399" letter-spacing="1">LIVE</text>
+      <text x="32" y="96" font-size="26" font-weight="800" fill="#E2E8F0" letter-spacing="-.4">Photography Portfolio</text>
+      <text x="32" y="128" font-size="15" fill="#94A3B8">Portfolio nhiếp ảnh,</text>
+      <text x="32" y="150" font-size="15" fill="#94A3B8">tập trung vào hình ảnh.</text>
+      <rect x="32" y="168" width="59.6" height="28" rx="14" fill="#38BDF8" fill-opacity=".1" stroke="#38BDF8" stroke-opacity=".45"/><text x="61.8" y="187" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" fill="#38BDF8" text-anchor="middle">HTML</text><rect x="101.6" y="168" width="51.2" height="28" rx="14" fill="#38BDF8" fill-opacity=".1" stroke="#38BDF8" stroke-opacity=".45"/><text x="127.19999999999999" y="187" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12.5" fill="#38BDF8" text-anchor="middle">CSS</text>
       <g transform="translate(508 168)">
-        <circle cx="14" cy="14" r="20" fill="#F7B93E" fill-opacity=".12" stroke="#F7B93E" stroke-opacity=".5"/>
-        <path d="M7 21 L21 7 M10 7 H21 V18" fill="none" stroke="#F7B93E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="14" cy="14" r="20" fill="#38BDF8" fill-opacity=".12" stroke="#38BDF8" stroke-opacity=".5"/>
+        <path d="M7 21 L21 7 M10 7 H21 V18" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
           <animateTransform attributeName="transform" type="translate" values="0 0;2 -2;0 0" dur="1.6s" repeatCount="indefinite"/>
         </path>
       </g>
     </g>
+  <rect x="87" y="0" width="406" height="1.5" fill="url(#topline)" opacity=".8"/>
 </g>
-<rect x=".5" y=".5" width="579" height="229" rx="18" fill="none" stroke="#2A2420"/>
+<rect x=".5" y=".5" width="579" height="229" rx="18" fill="none" stroke="#1E293B"/>
 </svg>

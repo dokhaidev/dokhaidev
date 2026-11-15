@@ -1,84 +1,103 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0A0F"/><stop offset="1" stop-color="#1B1510"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060A17"/><stop offset="1" stop-color="#0E1834"/></linearGradient>
   <clipPath id="round"><rect width="1200" height="470" rx="22"/></clipPath>
-  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-    <circle cx="2" cy="2" r="1.2" fill="#2A2420"/>
-    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="28 28" dur="14s" repeatCount="indefinite"/>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0 H0 V40" fill="none" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="0" cy="0" r="1.6" fill="#334155"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="16s" repeatCount="indefinite"/>
   </pattern>
-  <radialGradient id="fade" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="fade" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
   <mask id="gridMask"><rect width="1200" height="470" fill="url(#fade)"/></mask>
+  <linearGradient id="topline" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
   <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
   <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   
 </defs>
 <style>
   .up{animation:up .9s cubic-bezier(.2,.7,.2,1) both}
-  @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
-  .blink{animation:blink 1s steps(1) infinite}
-  @keyframes blink{50%{opacity:0}}</style>
+  @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}</style>
 <g clip-path="url(#round)">
   <rect width="1200" height="470" fill="url(#bg)"/>
-  <rect width="1200" height="470" fill="url(#dots)" mask="url(#gridMask)"/>
+  <rect width="1200" height="470" fill="url(#grid)" mask="url(#gridMask)" opacity=".75"/>
   
-  <circle cx="600" cy="235" r="200" fill="#F7B93E" opacity="0.14" filter="url(#blur)">
+  <circle cx="600" cy="235" r="200" fill="#3B82F6" opacity="0.16" filter="url(#blur)">
     <animate attributeName="cx" values="600;600;600" dur="10s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="235;235;235" dur="10s" repeatCount="indefinite"/>
   </circle><g class="up" style="animation-delay:0.15s">
-      <rect x="45" y="30" width="360" height="190" rx="16" fill="#13110F" fill-opacity=".85" stroke="#2A2420"/>
-      <rect x="45" y="30" width="360" height="190" rx="16" fill="none" stroke="#F7B93E" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
+      <rect x="45" y="30" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
+      <rect x="45" y="30" width="360" height="190" rx="16" fill="none" stroke="#22D3EE" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
         <animate attributeName="stroke-dashoffset" from="0" to="-1240" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <rect x="73" y="56" width="52" height="40" rx="10" fill="#F7B93E" fill-opacity=".12" stroke="#F7B93E" stroke-opacity=".5"/>
-      <text x="99" y="81" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#F7B93E" text-anchor="middle">&lt;/&gt;</text>
-      <text x="141" y="82" font-size="20" font-weight="700" fill="#F5F0E8">Frontend Engineering</text>
-      <text x="73" y="134" font-size="15" fill="#B8AFA3"><tspan x="73" dy="0">React, Next.js, TypeScript — kiến trúc</tspan><tspan x="73" dy="22">component rõ ràng, dễ mở rộng và</tspan><tspan x="73" dy="22">dễ bảo trì.</tspan></text>
+      <rect x="73" y="56" width="52" height="40" rx="10" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".5"/>
+      <text x="99" y="81" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#22D3EE" text-anchor="middle">&lt;/&gt;</text>
+      <text x="141" y="82" font-size="20" font-weight="700" fill="#E2E8F0">Frontend Engineering</text>
+      <text x="383" y="64" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">01</text>
+      <line x1="73" y1="112" x2="377" y2="112" stroke="#1E293B"/>
+      <line x1="73" y1="112" x2="113" y2="112" stroke="#22D3EE" stroke-width="2"/>
+      <text x="73" y="142" font-size="15" fill="#94A3B8"><tspan x="73" dy="0">React, Next.js, TypeScript — kiến trúc</tspan><tspan x="73" dy="22">component rõ ràng, dễ mở rộng và</tspan><tspan x="73" dy="22">dễ bảo trì.</tspan></text>
     </g><g class="up" style="animation-delay:0.27s">
-      <rect x="435" y="30" width="360" height="190" rx="16" fill="#13110F" fill-opacity=".85" stroke="#2A2420"/>
-      <rect x="435" y="30" width="360" height="190" rx="16" fill="none" stroke="#FB7185" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
+      <rect x="435" y="30" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
+      <rect x="435" y="30" width="360" height="190" rx="16" fill="none" stroke="#A78BFA" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
         <animate attributeName="stroke-dashoffset" from="180" to="-1060" dur="8s" repeatCount="indefinite"/>
       </rect>
-      <rect x="463" y="56" width="52" height="40" rx="10" fill="#FB7185" fill-opacity=".12" stroke="#FB7185" stroke-opacity=".5"/>
-      <text x="489" y="81" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#FB7185" text-anchor="middle">UX</text>
-      <text x="531" y="82" font-size="20" font-weight="700" fill="#F5F0E8">UI/UX First</text>
-      <text x="463" y="134" font-size="15" fill="#B8AFA3"><tspan x="463" dy="0">Ưu tiên giao diện rõ ràng, nhất quán,</tspan><tspan x="463" dy="22">responsive và trải nghiệm mượt mà</tspan><tspan x="463" dy="22">trên mọi thiết bị.</tspan></text>
+      <rect x="463" y="56" width="52" height="40" rx="10" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-opacity=".5"/>
+      <text x="489" y="81" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#A78BFA" text-anchor="middle">UX</text>
+      <text x="531" y="82" font-size="20" font-weight="700" fill="#E2E8F0">UI/UX First</text>
+      <text x="773" y="64" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">02</text>
+      <line x1="463" y1="112" x2="767" y2="112" stroke="#1E293B"/>
+      <line x1="463" y1="112" x2="503" y2="112" stroke="#A78BFA" stroke-width="2"/>
+      <text x="463" y="142" font-size="15" fill="#94A3B8"><tspan x="463" dy="0">Ưu tiên giao diện rõ ràng, nhất quán,</tspan><tspan x="463" dy="22">responsive và trải nghiệm mượt mà</tspan><tspan x="463" dy="22">trên mọi thiết bị.</tspan></text>
     </g><g class="up" style="animation-delay:0.39s">
-      <rect x="825" y="30" width="360" height="190" rx="16" fill="#13110F" fill-opacity=".85" stroke="#2A2420"/>
-      <rect x="825" y="30" width="360" height="190" rx="16" fill="none" stroke="#2DD4BF" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
+      <rect x="825" y="30" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
+      <rect x="825" y="30" width="360" height="190" rx="16" fill="none" stroke="#34D399" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
         <animate attributeName="stroke-dashoffset" from="360" to="-880" dur="9s" repeatCount="indefinite"/>
       </rect>
-      <rect x="853" y="56" width="52" height="40" rx="10" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".5"/>
-      <text x="879" y="81" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#2DD4BF" text-anchor="middle">API</text>
-      <text x="921" y="82" font-size="20" font-weight="700" fill="#F5F0E8">API Integration</text>
-      <text x="853" y="134" font-size="15" fill="#B8AFA3"><tspan x="853" dy="0">Kết nối REST API, quản lý state với</tspan><tspan x="853" dy="22">Redux, xử lý dữ liệu và lỗi một</tspan><tspan x="853" dy="22">cách chặt chẽ.</tspan></text>
+      <rect x="853" y="56" width="52" height="40" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+      <text x="879" y="81" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#34D399" text-anchor="middle">API</text>
+      <text x="921" y="82" font-size="20" font-weight="700" fill="#E2E8F0">API Integration</text>
+      <text x="1163" y="64" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">03</text>
+      <line x1="853" y1="112" x2="1157" y2="112" stroke="#1E293B"/>
+      <line x1="853" y1="112" x2="893" y2="112" stroke="#34D399" stroke-width="2"/>
+      <text x="853" y="142" font-size="15" fill="#94A3B8"><tspan x="853" dy="0">Kết nối REST API, quản lý state với</tspan><tspan x="853" dy="22">Redux, xử lý dữ liệu và lỗi một</tspan><tspan x="853" dy="22">cách chặt chẽ.</tspan></text>
     </g><g class="up" style="animation-delay:0.51s">
-      <rect x="45" y="250" width="360" height="190" rx="16" fill="#13110F" fill-opacity=".85" stroke="#2A2420"/>
-      <rect x="45" y="250" width="360" height="190" rx="16" fill="none" stroke="#FB923C" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
+      <rect x="45" y="250" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
+      <rect x="45" y="250" width="360" height="190" rx="16" fill="none" stroke="#3B82F6" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
         <animate attributeName="stroke-dashoffset" from="540" to="-700" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <rect x="73" y="276" width="52" height="40" rx="10" fill="#FB923C" fill-opacity=".12" stroke="#FB923C" stroke-opacity=".5"/>
-      <text x="99" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#FB923C" text-anchor="middle">⚡</text>
-      <text x="141" y="302" font-size="20" font-weight="700" fill="#F5F0E8">Performance</text>
-      <text x="73" y="354" font-size="15" fill="#B8AFA3"><tspan x="73" dy="0">Tối ưu tốc độ tải, SEO và</tspan><tspan x="73" dy="22">accessibility — đo bằng số liệu,</tspan><tspan x="73" dy="22">không đoán.</tspan></text>
+      <rect x="73" y="276" width="52" height="40" rx="10" fill="#3B82F6" fill-opacity=".12" stroke="#3B82F6" stroke-opacity=".5"/>
+      <text x="99" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#3B82F6" text-anchor="middle">⚡</text>
+      <text x="141" y="302" font-size="20" font-weight="700" fill="#E2E8F0">Performance</text>
+      <text x="383" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">04</text>
+      <line x1="73" y1="332" x2="377" y2="332" stroke="#1E293B"/>
+      <line x1="73" y1="332" x2="113" y2="332" stroke="#3B82F6" stroke-width="2"/>
+      <text x="73" y="362" font-size="15" fill="#94A3B8"><tspan x="73" dy="0">Tối ưu tốc độ tải, SEO và</tspan><tspan x="73" dy="22">accessibility — đo bằng số liệu,</tspan><tspan x="73" dy="22">không đoán.</tspan></text>
     </g><g class="up" style="animation-delay:0.63s">
-      <rect x="435" y="250" width="360" height="190" rx="16" fill="#13110F" fill-opacity=".85" stroke="#2A2420"/>
-      <rect x="435" y="250" width="360" height="190" rx="16" fill="none" stroke="#F7B93E" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
+      <rect x="435" y="250" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
+      <rect x="435" y="250" width="360" height="190" rx="16" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
         <animate attributeName="stroke-dashoffset" from="720" to="-520" dur="8s" repeatCount="indefinite"/>
       </rect>
-      <rect x="463" y="276" width="52" height="40" rx="10" fill="#F7B93E" fill-opacity=".12" stroke="#F7B93E" stroke-opacity=".5"/>
-      <text x="489" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#F7B93E" text-anchor="middle">JS</text>
-      <text x="531" y="302" font-size="20" font-weight="700" fill="#F5F0E8">Full-stack</text>
-      <text x="463" y="354" font-size="15" fill="#B8AFA3"><tspan x="463" dy="0">Node.js, Express và MongoDB cho</tspan><tspan x="463" dy="22">các dự án end-to-end từ backend</tspan><tspan x="463" dy="22">đến frontend.</tspan></text>
+      <rect x="463" y="276" width="52" height="40" rx="10" fill="#38BDF8" fill-opacity=".12" stroke="#38BDF8" stroke-opacity=".5"/>
+      <text x="489" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#38BDF8" text-anchor="middle">JS</text>
+      <text x="531" y="302" font-size="20" font-weight="700" fill="#E2E8F0">Full-stack</text>
+      <text x="773" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">05</text>
+      <line x1="463" y1="332" x2="767" y2="332" stroke="#1E293B"/>
+      <line x1="463" y1="332" x2="503" y2="332" stroke="#38BDF8" stroke-width="2"/>
+      <text x="463" y="362" font-size="15" fill="#94A3B8"><tspan x="463" dy="0">Node.js, Express và MongoDB cho</tspan><tspan x="463" dy="22">các dự án end-to-end từ backend</tspan><tspan x="463" dy="22">đến frontend.</tspan></text>
     </g><g class="up" style="animation-delay:0.75s">
-      <rect x="825" y="250" width="360" height="190" rx="16" fill="#13110F" fill-opacity=".85" stroke="#2A2420"/>
-      <rect x="825" y="250" width="360" height="190" rx="16" fill="none" stroke="#FB7185" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
+      <rect x="825" y="250" width="360" height="190" rx="16" fill="#0B1226" fill-opacity=".88" stroke="#1E293B"/>
+      <rect x="825" y="250" width="360" height="190" rx="16" fill="none" stroke="#818CF8" stroke-width="1.6" stroke-dasharray="140 1100" stroke-linecap="round" opacity=".9">
         <animate attributeName="stroke-dashoffset" from="900" to="-340" dur="9s" repeatCount="indefinite"/>
       </rect>
-      <rect x="853" y="276" width="52" height="40" rx="10" fill="#FB7185" fill-opacity=".12" stroke="#FB7185" stroke-opacity=".5"/>
-      <text x="879" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#FB7185" text-anchor="middle">🔭</text>
-      <text x="921" y="302" font-size="20" font-weight="700" fill="#F5F0E8">Đang theo đuổi</text>
-      <text x="853" y="354" font-size="15" fill="#B8AFA3"><tspan x="853" dy="0">Dự án web full-stack, thử nghiệm</tspan><tspan x="853" dy="22">công nghệ mới để giải quyết bài</tspan><tspan x="853" dy="22">toán thực tế.</tspan></text>
+      <rect x="853" y="276" width="52" height="40" rx="10" fill="#818CF8" fill-opacity=".12" stroke="#818CF8" stroke-opacity=".5"/>
+      <text x="879" y="301" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#818CF8" text-anchor="middle">🔭</text>
+      <text x="921" y="302" font-size="20" font-weight="700" fill="#E2E8F0">Đang theo đuổi</text>
+      <text x="1163" y="284" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">06</text>
+      <line x1="853" y1="332" x2="1157" y2="332" stroke="#1E293B"/>
+      <line x1="853" y1="332" x2="893" y2="332" stroke="#818CF8" stroke-width="2"/>
+      <text x="853" y="362" font-size="15" fill="#94A3B8"><tspan x="853" dy="0">Dự án web full-stack, thử nghiệm</tspan><tspan x="853" dy="22">công nghệ mới để giải quyết bài</tspan><tspan x="853" dy="22">toán thực tế.</tspan></text>
     </g>
+  <rect x="180" y="0" width="840" height="1.5" fill="url(#topline)" opacity=".8"/>
 </g>
-<rect x=".5" y=".5" width="1199" height="469" rx="22" fill="none" stroke="#2A2420"/>
+<rect x=".5" y=".5" width="1199" height="469" rx="22" fill="none" stroke="#1E293B"/>
 </svg>
